@@ -1,0 +1,34 @@
+#messages{
+    height:300px;
+    overflow-y: scroll;
+}
+
+body {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.card {
+    background-color: #1e1e1e;
+    border: 1px solid #333;
+    border-radius: 10px;
+}
+
+.card-body {
+    padding: 10px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+#chat {
+    margin-top: 20px;
+}
+
